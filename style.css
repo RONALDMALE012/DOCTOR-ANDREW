@@ -119,6 +119,7 @@ marquee{
     margin-top: 20px;
     color: white;
     background-color: black;
+     text-align: center;
  }
  .link {
     margin-top: 10px;
@@ -128,4 +129,5 @@ marquee{
  audio{
     margin-top: 10px;
     margin-bottom: 10px;
+     margin-left: 60px;
  }
